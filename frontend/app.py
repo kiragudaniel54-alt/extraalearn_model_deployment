@@ -4,7 +4,7 @@ import requests
 
 # Base URL of the Flask backend.
 # For a docker-compose setup this is the backend service name; for two separate
-# Hugging Face Spaces, replace it with the backend Space's public URL.
+# github Spaces, replace it with the backend Space's public URL.
 BACKEND_URL = "http://backend:7860"
 
 # Page title
